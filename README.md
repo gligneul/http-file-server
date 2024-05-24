@@ -5,7 +5,7 @@ Simple HTTP server that serve files in the current directory.
 ## Install
 
 ```sh
-go install https://github.com/gligneul/http-file-server
+go install github.com/gligneul/http-file-server@latest
 ```
 
 ## Usage
